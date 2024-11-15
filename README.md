@@ -2,7 +2,7 @@
 DiscordBotのコマンドをcogsで分ける方法
 
 必要なライブラリ
-- discord.py
+- py-cord
 - aiomysql
 - aiohttp
 - asyncio
@@ -10,4 +10,4 @@ DiscordBotのコマンドをcogsで分ける方法
 - traceback
   
 コマンド
-`pip install discord.py aiomysql aiohttp`
+`pip install py-cord aiomysql aiohttp`

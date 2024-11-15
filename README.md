@@ -8,5 +8,6 @@ DiscordBotのコマンドをcogsで分ける方法
 - asyncio
 - os
 - traceback
+  
 コマンド
-pip install discord.py aiomysql aiohttp
+`pip install discord.py aiomysql aiohttp`

@@ -88,7 +88,7 @@ async def change_activity():
     await asyncio.sleep(10)
     await bot.change_presence(activity=discord.Game(name='制作者: 〇〇'))
 
-CREATOR_ID = 955957505782067291
+CREATOR_ID = "あなたのユーザーID"
 
 @bot.slash_command(name="reload", description="コマンドをリロードします")
 async def discord_reload_commands(ctx, filename: str = None):

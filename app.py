@@ -7,7 +7,7 @@ import aiohttp
 import traceback
 
 # Botのトークンを環境変数から取得
-BOT_TOKEN = 'トークンを入力'  # セキュリティのため、トークンは環境変数または外部ファイルから取得することを推奨します。
+BOT_TOKEN = 'トークンを入力' 
 
 # エラーログ用のチャンネルIDを設定
 ERROR_LOG_CHANNEL_ID = ""  # ここに実際のチャンネルIDを設定してください
